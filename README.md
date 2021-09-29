@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Eilaluth/Ayano/main/img/ayanoxkyoko.png" />
+
 # Sugiura Ayano
 
 <img src="https://static.wikia.nocookie.net/yuruyuri/images/f/f5/AyanoSugiura-YY10.png/revision/latest/scale-to-width-down/350?cb=20191006142240" width="160" align="right" />
