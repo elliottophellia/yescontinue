@@ -13,3 +13,10 @@ Ayano has a tsundere type personality and this shows when she gets embarrassed a
 - [stuyy](https://github.com/stuyy/discordjs-youtube-tutorials/tree/master/anti-spam)
 - [Reynadi531](https://github.com/Reynadi531/api-covid19-indonesia-v2)
 - [exilvm](https://github.com/exilvm/sauceBot)
+
+## Modules
+- [discord.js | ^13.1.0](https://www.npmjs.com/package/discord.js)
+- [discord-player | ^5.1.0](https://www.npmjs.com/package/discord-player)
+- [ffmpeg-static | ^4.4.0](https://www.npmjs.com/package/ffmpeg-static)
+- [ms | ^3.0.0-canary.1](https://www.npmjs.com/package/ms)
+- [opusscript | ^0.0.8](https://www.npmjs.com/package/opusscript)
