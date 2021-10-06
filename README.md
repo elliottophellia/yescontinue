@@ -10,7 +10,6 @@ Ayano has a tsundere type personality and this shows when she gets embarrassed a
 
 ## Credit
 - [ZerioDev](https://github.com/ZerioDev/Music-bot)
-- [stuyy](https://github.com/stuyy/discordjs-youtube-tutorials/tree/master/anti-spam)
 - [Reynadi531](https://github.com/Reynadi531/api-covid19-indonesia-v2)
 - [exilvm](https://github.com/exilvm/sauceBot)
 
