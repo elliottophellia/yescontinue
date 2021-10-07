@@ -19,3 +19,7 @@ Ayano has a tsundere type personality and this shows when she gets embarrassed a
 - [ffmpeg-static | ^4.4.0](https://www.npmjs.com/package/ffmpeg-static)
 - [ms | ^3.0.0-canary.1](https://www.npmjs.com/package/ms)
 - [opusscript | ^0.0.8](https://www.npmjs.com/package/opusscript)
+- [figlet | ^1.5.2](https://www.npmjs.com/package/figlet)
+- [weky | ^3.1.8](https://www.npmjs.com/package/weky)
+- [cli-table | ^0.3.6](https://www.npmjs.com/package/cli-table)
+- [axios | ^0.22.0](https://www.npmjs.com/package/axios)
