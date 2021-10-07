@@ -26,3 +26,4 @@ Ayano has a tsundere type personality and this shows when she gets embarrassed a
 - [cli-table | ^0.3.6](https://www.npmjs.com/package/cli-table)
 - [axios | ^0.22.0](https://www.npmjs.com/package/axios)
 - [is-valid-http-url | ^1.0.3](https://www.npmjs.com/package/is-valid-http-url)
+- [discord-gamecord | ^2.0.0](https://www.npmjs.com/package/discord-gamecord)
