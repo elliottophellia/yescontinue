@@ -14,6 +14,7 @@ Ayano has a tsundere type personality and this shows when she gets embarrassed a
 - [exilvm](https://github.com/exilvm/sauceBot)
 - [bypass.vip](https://github.com/bypass-vip/bypass.vip)
 - [goqr.me](https://goqr.me/api/)
+- [Henrik-3](https://github.com/Henrik-3/unofficial-valorant-api)
 
 ## Modules
 - [discord.js | ^13.1.0](https://www.npmjs.com/package/discord.js)
