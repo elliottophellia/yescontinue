@@ -12,6 +12,8 @@ Ayano has a tsundere type personality and this shows when she gets embarrassed a
 - [ZerioDev](https://github.com/ZerioDev/Music-bot)
 - [Reynadi531](https://github.com/Reynadi531/api-covid19-indonesia-v2)
 - [exilvm](https://github.com/exilvm/sauceBot)
+- [bypass.vip](https://github.com/bypass-vip/bypass.vip)
+- [goqr.me](https://goqr.me/api/)
 
 ## Modules
 - [discord.js | ^13.1.0](https://www.npmjs.com/package/discord.js)
@@ -23,3 +25,4 @@ Ayano has a tsundere type personality and this shows when she gets embarrassed a
 - [weky | ^3.1.8](https://www.npmjs.com/package/weky)
 - [cli-table | ^0.3.6](https://www.npmjs.com/package/cli-table)
 - [axios | ^0.22.0](https://www.npmjs.com/package/axios)
+- [is-valid-http-url | ^1.0.3](https://www.npmjs.com/package/is-valid-http-url)
