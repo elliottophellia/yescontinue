@@ -69,3 +69,4 @@ module.exports = {
 - [is-valid-http-url | ^1.0.3](https://www.npmjs.com/package/is-valid-http-url)
 - [discord-gamecord | ^2.0.0](https://www.npmjs.com/package/discord-gamecord)
 - [get-youtube-id | ^1.0.1](https://www.npmjs.com/package/get-youtube-id)
+- [fbvideos | ^1.0.2](https://www.npmjs.com/package/fbvideos)
