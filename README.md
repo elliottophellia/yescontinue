@@ -8,6 +8,44 @@ Ayano is the current Student Council Vice President who is known to be secretly 
 
 Ayano has a tsundere type personality and this shows when she gets embarrassed around Kyōko. Although as of YuruYuri San☆Hai!, Ayano has started getting confident and more honest with her feelings.
 
+# Config
+```javascript
+module.exports = {
+    app: {
+        px: 'a!', // prefix
+        token: '', // discord bot token
+        playing: 'with Kyoko ❤️ | a!help', // status
+        color: '#c67d9a', // embed color
+    },
+
+    opt: {
+        DJ: {  // dj only commands
+            enabled: false,
+            roleName: 'DJ',
+            commands: ['back', 'clear', 'loop', 'pause', 'resume', 'seek', 'shuffle', 'skip', 'stop', 'volume']
+        },
+        MOD: { // moderator only commands
+            enabled: true,
+            commands: ['mute', 'unmute']
+        },
+        ADMN: { // admin only commands
+            enabled: true,
+            commands: ['kick', 'ban']
+        },
+        maxVol: 100, // max music volume
+        discordPlayer: {}
+    },
+
+    key: { // third party api
+        rapidAPI: '',
+        saucenaoAPI: '',
+        deepaiAPI: '',
+        imgbbAPI: '',
+    }
+};
+
+```
+
 ## Credit
 - [ZerioDev](https://github.com/ZerioDev/Music-bot)
 - [Reynadi531](https://github.com/Reynadi531/api-covid19-indonesia-v2)
