@@ -53,6 +53,7 @@ module.exports = {
 - [bypass.vip](https://github.com/bypass-vip/bypass.vip)
 - [goqr.me](https://goqr.me/api/)
 - [Henrik-3](https://github.com/Henrik-3/unofficial-valorant-api)
+- [llsc12](https://github.com/llsc12/download-api)
 
 ## Modules
 - [discord.js | ^13.1.0](https://www.npmjs.com/package/discord.js)
@@ -66,3 +67,4 @@ module.exports = {
 - [axios | ^0.22.0](https://www.npmjs.com/package/axios)
 - [is-valid-http-url | ^1.0.3](https://www.npmjs.com/package/is-valid-http-url)
 - [discord-gamecord | ^2.0.0](https://www.npmjs.com/package/discord-gamecord)
+- [get-youtube-id | ^1.0.1](https://www.npmjs.com/package/get-youtube-id)
