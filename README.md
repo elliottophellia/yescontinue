@@ -73,3 +73,5 @@ module.exports = {
 - [kasu.nhentaiapi.js | ^3.0.1](https://www.npmjs.com/package/kasu.nhentaiapi.js)
 - [valorant-fetch": ^3.1.1](https://www.npmjs.com/package/valorant-fetch)
 - [moment | ^2.29.1](https://www.npmjs.com/package/moment)
+- [mal-scraper | ^2.11.3](https://www.npmjs.com/package/mal-scraper)
+- [weather-js | ^2.0.0](https://www.npmjs.com/package/weather-js)
