@@ -70,3 +70,6 @@ module.exports = {
 - [discord-gamecord | ^2.0.0](https://www.npmjs.com/package/discord-gamecord)
 - [get-youtube-id | ^1.0.1](https://www.npmjs.com/package/get-youtube-id)
 - [fbvideos | ^1.0.2](https://www.npmjs.com/package/fbvideos)
+- [kasu.nhentaiapi.js | ^3.0.1](https://www.npmjs.com/package/kasu.nhentaiapi.js)
+- [valorant-fetch": ^3.1.1](https://www.npmjs.com/package/valorant-fetch)
+- [moment | ^2.29.1](https://www.npmjs.com/package/moment)
