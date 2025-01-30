@@ -35,3 +35,4 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=411623533" height="20">](https://api.gitsponsors.com/api/badge/link?p=ByDMp21LF70AWtD5qSNWer6yV1nSM0IJfXhAmQLIutNyJg7hLuFJNVTnbsCRnIna1f9uo2bxa7d2ni0DgKwQCOeahDBKLINE9uNhAE5Lxc99ILaOOCLDiEy5ILAJnyg9RXfNbPcvhce1V+hp41w6sRqH81fupG2P8jof9wfmEMU=)
